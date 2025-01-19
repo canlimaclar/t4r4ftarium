@@ -6,7 +6,7 @@
 
 <center>
 <br>
-<a href="https://bit.ly/taraftarium24-giris" title="Taraftarium24 Giriş">
+<a href="http://bit.ly/bosssportstv" title="Taraftarium24 Giriş">
 <img src="https://i.ibb.co/5K7Ks6w/zzzz3.gif" alt="Taraftarium24 Canlı Maç İzle" style="max-width: 100%; border: 2px solid #ddd; border-radius: 10px;">
 </a>
 </center>
@@ -14,7 +14,7 @@
 <p><strong>📅 Tarih:</strong> 19 Ocak 2025, Pazar</p>
 <p><strong>⏰ Saat:</strong> 19:00</p>
 <p><strong>🏟️ Maç:</strong> Adana Demirspor vs. Fenerbahçe</p>
-<p>🔗 Maç yayını için hemen tıklayın 👉 <a href="https://bit.ly/taraftarium24-giris" title="Taraftarium24 Canlı İzle">https://bit.ly/taraftarium24-giris</a></p>
+<p>🔗 Maç yayını için hemen tıklayın 👉 <a href="http://bit.ly/bosssportstv" title="Taraftarium24 Canlı İzle">https://bit.ly/taraftarium24-giris</a></p>
 
 <h2>✨ Taraftarium24 ile Futbol Keyfi Neden Eşsiz?</h2>
 <ul>
